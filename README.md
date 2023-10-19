@@ -81,7 +81,7 @@ y conectamos a nuestro servidor por medio de SFTP para la transferencia del arch
 ![image](https://github.com/Calderon0911/MediaWiki-Setup-Guide/assets/69009908/f33d9acf-4d32-4587-9a0d-96033030090b)
 
 
-Si lo decean pueden usar otro medio de transferencia como TFTP.
+Si lo desean pueden usar otro medio de transferencia como TFTP.
 
 En mi caso guarde el archivo .php en mi usuario en el directorio /home/marioc/
 
@@ -90,6 +90,10 @@ Luego lo movi al directorio de MediaWiki con el siguiente comando:
 ```bash
 sudo mv LocalSettings.php /var/www/html/mediawiki/
 ```
+
+![image](https://github.com/Calderon0911/MediaWiki-Setup-Guide/assets/69009908/e2097df1-5ba3-41a5-a4e4-53f3098d822c)
+
+
 # Luego de realizar esto podemos ingresar a su MediaWiki
 
 ![image](https://github.com/Calderon0911/MediaWiki-Setup-Guide/assets/69009908/fe017985-d00c-48ee-84f7-0aece64f3a23)
