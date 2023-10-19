@@ -73,6 +73,8 @@ Descargamos el siguiente programa en su maquina:
 ```bash
 https://winscp.net/eng/download.php
 ```
+![image](https://github.com/Calderon0911/MediaWiki-Setup-Guide/assets/69009908/e2097df1-5ba3-41a5-a4e4-53f3098d822c)
+
 y conectamos a nuestro servidor por medio de SFTP para la transferencia del archivo LocalSetting.php. 
 
 ![image](https://github.com/Calderon0911/MediaWiki-Setup-Guide/assets/69009908/fed6eeee-dd17-4d4d-b55d-2c0b63417bf0)
@@ -91,8 +93,6 @@ Luego lo movi al directorio de MediaWiki con el siguiente comando:
 ```bash
 sudo mv LocalSettings.php /var/www/html/mediawiki/
 ```
-
-![image](https://github.com/Calderon0911/MediaWiki-Setup-Guide/assets/69009908/e2097df1-5ba3-41a5-a4e4-53f3098d822c)
 
 
 # Luego de realizar esto podemos ingresar a su MediaWiki
