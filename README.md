@@ -95,7 +95,13 @@ sudo mv LocalSettings.php /var/www/html/mediawiki/
 ```
 
 
-# Luego de realizar esto podemos ingresar a su MediaWiki
+### Luego de realizar esto podemos ingresar a su MediaWiki
+
+Podemos ingrear a su pagina MediaWiki con el siguiente Link:
+
+```bash
+http://'Su direccion IP'/mediawiki/
+```
 
 ![image](https://github.com/Calderon0911/MediaWiki-Setup-Guide/assets/69009908/fe017985-d00c-48ee-84f7-0aece64f3a23)
 
