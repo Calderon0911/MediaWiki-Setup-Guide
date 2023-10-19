@@ -60,12 +60,13 @@ sudo mv mediawiki-1.36.0 /var/www/html/mediawiki
 Seguimos las instrucciones para finalziar la instalacion. 
 Recordatorio, en la seccion de base de datos ingresar el usuario y contraseña que añadieron en la base de datos.
 
+![image](https://github.com/Calderon0911/MediaWiki-Setup-Guide/assets/69009908/ab9f372e-df68-426a-bf4c-2b87044bcfa2)
+
 ## 5 Finalizacion de instalacion.
 
 Cuando terminemos la configuracion de MediaWiki se nos descargara un archivo 'LocalSetting.php'. Cuando tengan este archivo lo transferimos a nuestro servidor y lo colocamos en la carpeta donde se encuentre la configuracion de MediaWiki.
 En mi caso lo realice de la siguiente manera: 
 
-![image](https://github.com/Calderon0911/MediaWiki-Setup-Guide/assets/69009908/ab9f372e-df68-426a-bf4c-2b87044bcfa2)
 
 Descargamos el siguiente programa en su maquina: 
 
